@@ -1,62 +1,197 @@
 # Dibya-Demo
 This is my first repository
-<br>
-# Hi there, I'm Dibyaman Sahoo 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Dibyaman-sahoo)
-[![Email](https://img.shields.io/badge/Email-sahoodibyaman%40gmail.com-red?style=flat&logo=gmail)](mailto:sahoodibyaman@gmail.com)
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=DIBYAMAN+SAHOO;PRESS+START+TO+CONTINUE;LOADING+BACKEND+DEV.exe;CLOUD+%2B+CODE+%2B+CONTROLLER" alt="Typing SVG" />
 
----
+<br/>
 
-### 👨‍💻 About Me
-* 🎓 Final-year **B.Tech in Computer Science & Engineering** student at *Centurion University of Technology & Management* (2022 – Present)[cite: 1, 2].
-* ☁️ Cloud & Backend enthusiast with hands-on experience in **AWS Cloud Computing**, **Python**, and modern databases[cite: 1, 2].
-* 💼 Completed a remote internship as a **Cloud Computing Engineer** at *Devsindia*[cite: 1, 2].
-* 📍 Based in **Bhubaneswar, Odisha, India**[cite: 1, 2].
+<!-- Profile banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF41&height=200&section=header&text=Player%20One%20Loading...&fontSize=40&fontColor=00FF41&fontAlignY=40&animation=twinkling&desc=Software%20Engineering%20Student%20%7C%20Cloud%20%26%20Backend&descSize=18&descColor=E5E5E5&descAlignY=60" width="100%"/>
 
----
+</div>
 
-### 🛠️ Tech Stack & Skills
+<div align="center">
 
-* **Languages & Web:** Python, Java, HTML, CSS[cite: 1, 2]
-* **Frameworks & Backend:** Spring Boot, REST APIs, Backend Development[cite: 1, 2]
-* **Cloud & DevOps:** AWS (EC2, S3, Lambda), DevOps, Amazon CloudWatch, ROS[cite: 1, 2]
-* **Databases:** MongoDB, MySQL, PostgreSQL, Oracle[cite: 1]
-* **Tools & Additional:** Git, Digital Marketing[cite: 1, 2]
+![Profile Views](https://komarev.com/ghpvc/?username=dibyamansahoo&label=PLAYER%20VISITS&color=00FF41&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage)
+![Level](https://img.shields.io/badge/LEVEL-FRESHER-blueviolet?style=for-the-badge&logo=gamepad)
+
+</div>
 
 ---
 
-### 🚀 Featured Project
+## 🎮 PLAYER PROFILE
 
-#### 📌 [Task Manager Web Application](https://github.com/) *(March 2024)*[cite: 1]
-* **Architecture:** Full-stack web application featuring secure user authentication (Sign-up/Login)[cite: 1].
-* **Core Features:** Complete CRUD functionality allowing dynamic task management, prioritization, and categorization[cite: 1].
-* **Database & Frontend:** Integrated persistent data storage using **MongoDB** for low-latency queries; styled with clean **HTML/CSS**[cite: 1].
+```yaml
+Class:          Software Engineer (Backend/Cloud Build)
+Current Quest:  B.Tech in Computer Science & Engineering
+Guild:          Centurion University of Technology & Management, Bhubaneswar
+Base:           Bhubaneswar, Odisha, India
+Special Move:   Deploying scalable apps on AWS
+Status:         Eager to join a new party (hiring? let's talk!)
+```
 
----
-
-### 💼 Experience
-
-#### **Cloud Computing Engineer Intern** | *Devsindia* *(June 2024 – Oct 2024)*[cite: 1]
-* Deployed scalable backend services on **Amazon EC2** using Python[cite: 1].
-* Configured **Elastic Load Balancing** and **Auto Scaling** to handle dynamic web traffic[cite: 1].
-* Handled data layers with **MongoDB** and stored static assets in **Amazon S3**[cite: 1].
-* Built robust REST APIs and configured **Amazon CloudWatch** for system monitoring[cite: 1].
+> Motivated Software Engineering student with hands-on experience in **AWS Cloud Computing** and **Backend Development**. I build scalable web apps and secure REST APIs, and I level up constantly with new certifications in the cloud/backend stack.
 
 ---
 
-### 📜 Certifications & Verification Links
+## 🕹️ TECH STACK — INVENTORY
 
-* ☁️ [Cloud Computing Engineer: Internship & Training — Devsindia](https://devsindia.in/) *(Replace with your direct certificate URL)*[cite: 1, 2]
-* ☕ [MongoDB Developer's Toolkit: CRUD Mastery with Java — GeeksforGeeks](https://www.geeksforgeeks.org/) *(Replace with your direct certificate URL)*[cite: 2]
-* 📈 [Digital Marketing — GeeksforGeeks](https://www.geeksforgeeks.org/) *(Replace with your direct certificate URL)*[cite: 2]
-* ⚙️ [Backend Development: Professional Course — Physics Wallah (PW)](https://www.pw.live/) *(Replace with your direct certificate URL)*[cite: 1, 2]
-* 🐍 [Python for Beginners — Udemy](https://www.udemy.com/) *(Replace with your direct certificate URL)*[cite: 1, 2]
+<div align="center">
+
+**Languages & Web**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+**Tools & Tech**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+</div>
 
 ---
 
-### 📫 Connect with Me
+## 🐍 ACTIVITY ARENA — SNAKE GAME
 
-* 📧 **Email:** [sahoodibyaman@gmail.com](mailto:sahoodibyaman@gmail.com)[cite: 1, 2]
-* 💼 **LinkedIn:** [@Dibyaman sahoo](https://www.linkedin.com/in/Dibyaman-sahoo)[cite: 1]
-* 📞 **Phone:** +91 9777968156[cite: 1, 2]
+<div align="center">
+
+<!-- This SVG is generated by the snake workflow below. Green cells = your GitHub contribution graph, eaten by a snake. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dibyamansahoo/dibyamansahoo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dibyamansahoo/dibyamansahoo/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/dibyamansahoo/dibyamansahoo/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 🏆 QUEST LOG — WORK EXPERIENCE
+
+### 🟢 Cloud Computing Engineer Intern — *Devsindia* (Remote)
+**Jan 2024 – Oct 2024**
+- Built a scalable web app on **AWS EC2** hosting a Python backend
+- Configured **Elastic Load Balancing** + Auto Scaling for traffic spikes
+- Managed data with **MongoDB**, stored static assets in **Amazon S3**
+- Shipped REST APIs in Python, monitored via **Amazon CloudWatch**
+
+### 🟢 Task Manager Web Application — *Personal Project*
+**March 2024**
+- Full-stack app with secure sign-up/login authentication
+- Complete CRUD flow to manage, prioritize, and categorize tasks
+- MongoDB-backed persistent storage for low-latency access
+- Clean, responsive HTML/CSS interface
+
+---
+
+## 🎖️ ACHIEVEMENTS UNLOCKED — CERTIFICATIONS
+
+<div align="center">
+
+<a href="https://www.devsindia.com/" target="_blank">
+  <img src="https://img.shields.io/badge/☁️_Cloud_Computing_Engineer-Devsindia_Internship_%26_Training-00FF41?style=for-the-badge&logo=amazonaws&logoColor=black" />
+</a>
+<br/>
+<a href="https://www.udemy.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🐍_Python_for_Beginners-Udemy_Certified-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+</a>
+<br/>
+<a href="https://www.geeksforgeeks.org/" target="_blank">
+  <img src="https://img.shields.io/badge/🍃_MongoDB_Dev_Toolkit-CRUD_Mastery_with_Java-2F8D46?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+<br/>
+<a href="https://pwskills.com/" target="_blank">
+  <img src="https://img.shields.io/badge/⚙️_Backend_Development-Professional_Course_(PW)-FF6B00?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</a>
+<br/>
+<a href="https://www.geeksforgeeks.org/" target="_blank">
+  <img src="https://img.shields.io/badge/📈_Digital_Marketing-GeeksforGeeks_Certified-2F8D46?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 PLAYER STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dibyamansahoo&show_icons=true&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=E5E5E5&bg_color=0D1117&border_color=00FF41&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyamansahoo&theme=github-dark-blue&hide_border=false&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyamansahoo&layout=compact&theme=github_dark&title_color=00FF41&text_color=E5E5E5&bg_color=0D1117&border_color=00FF41&hide_border=false" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyamansahoo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=E5E5E5" width="49%" />
+
+</div>
+
+---
+
+## 🎓 EDUCATION LOG
+
+| Stage | Institution | Duration |
+|---|---|---|
+| 🎓 B.Tech CSE | Centurion University of Technology & Management, Bhubaneswar | Jun 2022 – Present |
+| 🏫 Higher Secondary | Rameswar Higher Secondary School, Bhadrak | Jan 2020 – Jan 2022 |
+| 🏫 Secondary | B M Bagurai Nodal High School, Bhadrak | Jan 2015 – Jan 2020 |
+
+---
+
+## 📡 CONNECT WITH PLAYER ONE
+
+<div align="center">
+
+### 🎯 Let's team up — I'm actively looking for opportunities in Cloud & Backend Engineering!
+
+<a href="https://www.linkedin.com/in/dibyaman-sahoo" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
+</a>
+&nbsp;
+<a href="mailto:sahoodibyaman@gmail.com">
+  <img src="https://img.shields.io/badge/📧_EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="45"/>
+</a>
+&nbsp;
+<a href="tel:+919777968156">
+  <img src="https://img.shields.io/badge/📞_CALL-00FF41?style=for-the-badge&logo=phone&logoColor=black&labelColor=000000" height="45"/>
+</a>
+
+<br/><br/>
+
+**⭐ Press LinkedIn above to send a connection request — always happy to network, collaborate, or talk opportunities!**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0F2027&height=120&section=footer" width="100%"/>
+
+`GAME OVER? NO — CONTINUE ▶ ` **Thanks for stopping by my profile!**
+
+</div>
