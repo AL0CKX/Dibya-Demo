@@ -168,7 +168,7 @@ Status:         Eager to join a new party (hiring? let's talk!)
 
 ### 🎯 Let's team up — I'm actively looking for opportunities in Cloud & Backend Engineering!
 
-<a href="https://www.linkedin.com/in/dibyaman-sahoo" target="_blank">
+<a href="https://www.linkedin.com/in/dibyaman-sahoo-509874257/" target="_blank">
   <img src="https://img.shields.io/badge/🔗_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
 </a>
 &nbsp;
