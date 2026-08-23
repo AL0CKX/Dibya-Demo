@@ -114,25 +114,22 @@ Status:         Eager to join a new party (hiring? let's talk!)
 
 <div align="center">
 
-<a href="https://www.devsindia.com/" target="_blank">
+<a href="https://drive.google.com/file/d/1Iz1juBGbGCWbi-4Y8nUDg2oYUMwb-o33/view" target="_blank">
   <img src="https://img.shields.io/badge/☁️_Cloud_Computing_Engineer-Devsindia_Internship_%26_Training-00FF41?style=for-the-badge&logo=amazonaws&logoColor=black" />
 </a>
 <br/>
-<a href="https://www.udemy.com/" target="_blank">
+<a href="https://www.udemy.com/certificate/UC-7d16d08c-17b3-4d55-88ff-64d0d27246c9/"_blank">
   <img src="https://img.shields.io/badge/🐍_Python_for_Beginners-Udemy_Certified-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>
 <br/>
-<a href="https://www.geeksforgeeks.org/" target="_blank">
+<a href="https://www.geeksforgeeks.org/certificate/65a139c7fecfee4b0bbc7db2a43693a1" target="_blank">
   <img src="https://img.shields.io/badge/🍃_MongoDB_Dev_Toolkit-CRUD_Mastery_with_Java-2F8D46?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 <br/>
-<a href="https://pwskills.com/" target="_blank">
+<a href="https://pwskills.com/learn/certificate/3da7205b-6891-41fe-b023-54cd3252b555/" target="_blank">
   <img src="https://img.shields.io/badge/⚙️_Backend_Development-Professional_Course_(PW)-FF6B00?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </a>
 <br/>
-<a href="https://www.geeksforgeeks.org/" target="_blank">
-  <img src="https://img.shields.io/badge/📈_Digital_Marketing-GeeksforGeeks_Certified-2F8D46?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-</a>
 
 </div>
 
