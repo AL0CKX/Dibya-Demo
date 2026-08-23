@@ -140,7 +140,7 @@ Status:         Eager to join a new party (hiring? let's talk!)
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dibyamansahoo&show_icons=true&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=E5E5E5&bg_color=0D1117&border_color=00FF41&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyamansahoo&theme=github-dark-blue&hide_border=false&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
+<img src="https://github.com/AL0CKX&theme=github-dark-blue&hide_border=false&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyamansahoo&layout=compact&theme=github_dark&title_color=00FF41&text_color=E5E5E5&bg_color=0D1117&border_color=00FF41&hide_border=false" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyamansahoo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=E5E5E5" width="49%" />
