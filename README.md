@@ -4,7 +4,6 @@ This is my first repository
 
 <!-- Animated typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=DIBYAMAN+SAHOO;PRESS+START+TO+CONTINUE;LOADING+BACKEND+DEV.exe;CLOUD+%2B+CODE+%2B+CONTROLLER" alt="Typing SVG" />
-
 <br/>
 
 <!-- Profile banner -->
