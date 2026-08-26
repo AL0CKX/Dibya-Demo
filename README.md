@@ -72,20 +72,25 @@ Status:         Eager to join a new party (hiring? let's talk!)
 </div>
 
 ---
-
-## 🐍 ACTIVITY ARENA — SNAKE GAME
+## 🖥️ SYSTEM LOG — LIVE ACTIVITY FEED
 
 <div align="center">
 
-![High Score](https://img.shields.io/badge/HIGH_SCORE-CONTRIBUTION_STREAK-00FF41?style=for-the-badge&logo=github)
+```text
+$ whoami
+> dibyaman_sahoo // cloud & backend engineer
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AL0CKX/AL0CKX/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AL0CKX/AL0CKX/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/AL0CKX/AL0CKX/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+$ fetch --contributions --user=AL0CKX
+> connecting to github.com... OK
+> rendering activity stream...
+```
 
-`INSERT COMMIT TO CONTINUE ▶` **every green square is a level cleared**
+<img src="https://github-readme-stats.vercel.app/api?username=AL0CKX&show_icons=true&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000&border_color=00FF41&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AL0CKX&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="48%" />
+
+```text
+> stream complete. session active.
+```
 
 </div>
 
