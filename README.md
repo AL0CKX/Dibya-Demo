@@ -7,7 +7,6 @@
 <br/>
 
 </div>
-## 📄 DOWNLOAD SAVE FILE — RESUME / CV
 
 <div align="center">
 
