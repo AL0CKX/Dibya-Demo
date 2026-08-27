@@ -1,5 +1,4 @@
 # Dibya-Demo
-This is my first repository
 <div align="center">
 
 <!-- Animated typing header -->
