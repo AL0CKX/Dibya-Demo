@@ -3,7 +3,17 @@
 
 <!-- Animated typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=DIBYAMAN+SAHOO;PRESS+START+TO+CONTINUE;LOADING+BACKEND+DEV.exe;CLOUD+%2B+CODE+%2B+CONTROLLER" alt="Typing SVG" />
+
 <br/>
+
+</div>
+## 📄 DOWNLOAD SAVE FILE — RESUME / CV
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1yi1pkGVmZuAFkqB86e8iMI6a8cKIaEoV/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_RESUME-SAVE_FILE.EXE-00FF41?style=for-the-badge&logo=download&logoColor=black" height="45"/>
+</a>
 
 </div>
 
