@@ -80,7 +80,8 @@ Status:         Eager to join a new party (hiring? let's talk!)
 </div>
 ```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AL0CKX..." width="48%" />
+<div align="center">
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL0CKX&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="48%" />
 
 ```text
