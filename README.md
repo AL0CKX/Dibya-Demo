@@ -170,7 +170,7 @@ Status:         Eager to join a new party (hiring? let's talk!)
 
 ### 🎯 Let's team up — I'm actively looking for opportunities in Cloud & Backend Engineering!
 
-<a href="https://www.linkedin.com/in/dibyaman-sahoo-509874257/" target="_blank">
+<a href="https://www.linkedin.com/in/dibyaman-sahoo" target="_blank">
   <img src="https://img.shields.io/badge/🔗_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
 </a>
 &nbsp;
@@ -179,7 +179,7 @@ Status:         Eager to join a new party (hiring? let's talk!)
 </a>
 &nbsp;
 <a href="tel:+919777968156">
-  <img src="https://img.shields.io/badge/📞_CALL-00FF41?style=for-the-badge&logo=phone&logoColor=black&labelColor=000000" height="45"/>
+  <img src="https://img.shields.io/badge/📞_CALL_ME-00FF41?style=for-the-badge&logo=phone&logoColor=black&labelColor=000000" height="45"/>
 </a>
 
 <br/><br/>
@@ -187,7 +187,6 @@ Status:         Eager to join a new party (hiring? let's talk!)
 **⭐ Press LinkedIn above to send a connection request — always happy to network, collaborate, or talk opportunities!**
 
 </div>
-
 ---
 
 <div align="center">
