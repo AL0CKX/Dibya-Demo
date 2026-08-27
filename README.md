@@ -78,15 +78,11 @@ Status:         Eager to join a new party (hiring? let's talk!)
 ![AL0CKX's github activity graph](https://ghchart.rshah.org/00FF41/AL0CKX)
 
 </div>
-```
 
 <div align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL0CKX&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="48%" />
 
-```text
-> stream complete. session active.
-```
 
 </div>
 
