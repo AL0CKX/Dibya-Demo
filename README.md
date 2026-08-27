@@ -71,17 +71,13 @@ Status:         Eager to join a new party (hiring? let's talk!)
 </div>
 
 ---
-## 🖥️ SYSTEM LOG — LIVE ACTIVITY FEED
+## 📅 CONTRIBUTION CALENDAR
 
 <div align="center">
 
-```text
-$ whoami
-> dibyaman_sahoo // cloud & backend engineer
+![AL0CKX's github activity graph](https://ghchart.rshah.org/00FF41/AL0CKX)
 
-$ fetch --contributions --user=AL0CKX
-> connecting to github.com... OK
-> rendering activity stream...
+</div>
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=AL0CKX&show_icons=true&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000&border_color=00FF41&hide_border=false" width="48%" />
