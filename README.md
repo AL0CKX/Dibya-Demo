@@ -141,10 +141,6 @@ reliable code.
 
 </div>
 
----
-
-## 📊 PLAYER STATS
-
 ## 📊 PLAYER STATS
 
 <div align="center">
