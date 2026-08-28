@@ -147,8 +147,13 @@ reliable code.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AL0CKX..." width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0CKX..." width="49%" />
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AL0CKX&label=REPOS&query=%24.public_repos&color=00FF41&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AL0CKX&label=FOLLOWERS&query=%24.followers&color=00FF41&style=for-the-badge&logo=github)
 
 </div>
 
