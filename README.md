@@ -37,7 +37,10 @@ Special Move:   Deploying scalable apps on AWS
 Status:         Eager to join a new party (hiring? let's talk!)
 ```
 
-> Motivated Software Engineering student with hands-on experience in **AWS Cloud Computing** and **Backend Development**. I build scalable web apps and secure REST APIs, and I level up constantly with new certifications in the cloud/backend stack.
+> Adaptable Software Engineering graduate seeking an entry-level Full-Stack Developer role. Proficient in core web
+technologies, Java backend systems, and database management, with additional knowledge of AWS cloud deployment
+and DevOps basics. Known for picking up tools quickly, thriving in collaborative environments, and writing clean,
+reliable code.
 
 ---
 
