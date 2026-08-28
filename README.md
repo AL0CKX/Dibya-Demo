@@ -147,8 +147,8 @@ reliable code.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AL0CKX&show_icons=true&theme=github_dark&title_color=00FF41&icon_color=00FF41&text_color=E5E5E5&bg_color=0D1117&border_color=00FF41&hide_border=false&cache_seconds=86400" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0CKX&layout=compact&theme=github_dark&title_color=00FF41&text_color=E5E5E5&bg_color=0D1117&border_color=00FF41&hide_border=false&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AL0CKX..." width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0CKX..." width="49%" />
 
 </div>
 
