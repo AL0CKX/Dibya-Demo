@@ -89,8 +89,9 @@ reliable code.
 
 ![AL0CKX's github activity graph](https://ghchart.rshah.org/00FF41/AL0CKX)
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AL0CKX&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=E5E5E5&area=true&area_color=00FF41" width="100%"/>
 
+</div>
 <div align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL0CKX&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="48%" />
