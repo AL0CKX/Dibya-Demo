@@ -178,13 +178,12 @@ reliable code.
 <a href="https://www.linkedin.com/in/dibyaman-sahoo" target="_blank">
   <img src="https://img.shields.io/badge/🔗_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
 </a>
-&nbsp;
 <a href="mailto:sahoodibyaman@gmail.com">
-  <img src="https://img.shields.io/badge/📧_EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="45"/>
+  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="45" alt="Email Me"/>
 </a>
 &nbsp;
 <a href="tel:+919777968156">
-  <img src="https://img.shields.io/badge/📞_CALL_ME-00FF41?style=for-the-badge&logo=phone&logoColor=black&labelColor=000000" height="45"/>
+  <img src="https://img.shields.io/badge/CALL_ME-00FF41?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000" height="45" alt="Call Me"/>
 </a>
 
 <br/><br/>
