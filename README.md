@@ -89,7 +89,7 @@ reliable code.
 
 ![dibyaman-sahoo's github activity graph](https://ghchart.rshah.org/00FF41/dibyaman-sahoo)
 
-<img src="https://github-profile-trophy.vercel.app/?username=dibyaman-sahoo&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dibyaman-sahoo&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 </div>
 
