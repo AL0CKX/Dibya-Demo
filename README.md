@@ -87,15 +87,15 @@ reliable code.
 
 <div align="center">
 
-![AL0CKX's github activity graph](https://ghchart.rshah.org/00FF41/AL0CKX)
+![dibyaman-sahoo's github activity graph](https://ghchart.rshah.org/00FF41/dibyaman-sahoo)
 
-<img src="https://github-profile-trophy.vercel.app/?username=AL0CKX&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dibyaman-sahoo&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AL0CKX&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaman-sahoo&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="48%" />
 
 
 </div>
