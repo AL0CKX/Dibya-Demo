@@ -19,7 +19,9 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dibyamansahoo&label=PLAYER%20VISITS&color=00FF41&style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage)
+<a href="https://dibyaman-sahoo.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage" alt="Status" />
+</a>
 ![Level](https://img.shields.io/badge/LEVEL-FRESHER-blueviolet?style=for-the-badge&logo=gamepad)
 
 </div>
