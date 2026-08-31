@@ -180,8 +180,9 @@ reliable code.
 <a href="https://www.linkedin.com/in/dibyaman-sahoo" target="_blank">
   <img src="https://img.shields.io/badge/🔗_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
 </a>
-<a href="mailto:sahoodibyaman@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:sahoodibyaman@gmail.com?subject=Hello%20Dibyaman" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="45" alt="Email Me" />
+  [![Email Me](https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sahoodibyaman@gmail.com?subject=Hello%20Dibyaman)
 </a>
 
 <a href="tel:+919777968156">
