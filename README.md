@@ -1,4 +1,3 @@
-# Dibya-Demo
 <div align="center">
 
 <!-- Animated typing header -->
